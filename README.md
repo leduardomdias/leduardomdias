@@ -2,8 +2,8 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=808080&center=true&vCenter=true&random=false&width=1000&lines=Olá!%2C+meu+nome+é+Luís+Eduardo;Tenho+19+anos;Cursando+Engenharia+de+Software;Seja+bem+vindo%3A)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
+<div style="display: flex; align-items: center;">
+    <div style="margin-right: 20px;">
         <h2>🛠️ Tecnologias que eu conheço:</h2>
         <ul>
             <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML</li>
@@ -17,10 +17,11 @@
         </ul>
     </div>
 
- <a href="https://github.com/marquesDevvv/marquesDevvv/blob/main/img%20code.png?raw=true">
-        <img align="right" alt="Developer vector" height="380" src="https://github.com/marquesDevvv/marquesDevvv/blob/main/img%20code.png?raw=true" />
+  <a href="https://github.com/marquesDevvv/marquesDevvv/blob/main/img%20code.png?raw=true">
+        <img alt="Developer vector" height="380" src="https://github.com/marquesDevvv/marquesDevvv/blob/main/img%20code.png?raw=true" />
     </a>
 </div>
+
 
 
 <div align="center">
