@@ -2,7 +2,9 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=808080&center=true&vCenter=true&random=false&width=1000&lines=Olá!%2C+meu+nome+é+Luís+Eduardo;Tenho+19+anos;Cursando+Engenharia+de+Software;Seja+bem+vindo%3A)](https://git.io/typing-svg)
 
-<div align="center">
+<a href="https://github.com/marquesDevvv/marquesDevvv/blob/main/img%20code.png?raw=true">
+    <img align="right" alt="Developer vector" height="380" src="https://github.com/marquesDevvv/marquesDevvv/blob/main/img%20code.png?raw=true" />
+</a>
 
 <div align="center">
 
