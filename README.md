@@ -34,7 +34,7 @@
 
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 20px;">
-        <h2> </> Linguagens que eu conheço:</h2>
+        <h2> 💻 Linguagens que eu conheço:</h2>
         <ul>
             <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/>  HTML</li>
             <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/>  CSS</li>
