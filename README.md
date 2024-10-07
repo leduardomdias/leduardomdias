@@ -4,19 +4,20 @@
 
 <div align="center">
 
-  <a href="https://github.com/marquesDevvv/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=marquesDevvv&show_icons=true&locale=pt-BR&theme=light&rank_icon=github&bg_color=FFFFFF" alt="GitHub Stats" height="195" />
-  </a>
+<a href="https://github.com/marquesDevvv/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=marquesDevvv&show_icons=true&locale=pt-BR&theme=light&rank_icon=github&bg_color=EAEAEA" alt="GitHub Stats" height="195" />
+</a>
+
 
   <a href="https://github.com/marquesDevvv/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesDevvv&langs_count=8&theme=light&locale=pt-BR&bg_color=FFFFFF" alt="Top Languages" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesDevvv&langs_count=8&theme=light&locale=pt-BR&bg_color=EAEAEA" alt="Top Languages" height="195" />
   </a>
 
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=marquesDevvv&theme=light&locale=pt_BR&card_width=500&bg_color=FFFFFF" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=marquesDevvv&theme=light&locale=pt_BR&card_width=500&bg_color=EAEAEA" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -28,7 +29,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marquesDevvv&theme=light&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&mode=weekly&bg_color=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marquesDevvv&theme=light&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&mode=weekly&bg_color=EAEAEA)](https://git.io/streak-stats)
 
 </div>
 
