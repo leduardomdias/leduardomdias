@@ -46,13 +46,15 @@
             <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>  JavaScript</li>
         </ul>
 
-   <h2>🛠️ Ferramentas que sei usar:</h2>
-        <ul>
-            <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" width="20" height="20"/>  Visual Studio Code</li>
-            <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="20" height="20"/>  Bootstrap</li>
-            <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="DevC++" width="20" height="20"/>  DevC++</li>
-        </ul>
-    </div>
+  <h2>🛠️ Ferramentas que sei usar:</h2>
+<ul>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" width="20" height="20"/>  Visual Studio Code</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="20" height="20"/>  Bootstrap</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="DevC++" width="20" height="20"/>  DevC++</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" alt="CLion" width="20" height="20"/>  CLion (JetBrains)</li>
+</ul>
+
+  </div>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Obrigado!;)](https://git.io/typing-svg)
