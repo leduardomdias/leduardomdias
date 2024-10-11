@@ -20,10 +20,9 @@
   </a>
 </div>
 
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/marquesDevvv?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=2&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dark) 
-
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marquesDevvv&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&mode=weekly&bg_color=000000)](https://git.io/streak-stats)
 </div>
 
 <div style="display: flex; align-items: center;">
