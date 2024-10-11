@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Olá!%2C+meu+nome+é+Luís+Eduardo;Tenho+19+anos;Cursando+Engenharia+de+Software;Seja+bem+vindo%3A)](https://git.io/typing-svg)
 
 <div align="center">
@@ -50,5 +48,3 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Obrigado!;)](https://git.io/typing-svg)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
