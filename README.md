@@ -24,7 +24,7 @@
         <h2 style="color: white;">🌐 Acesse meu site:</h2>
         <p>
             <a href="https://leduardomdias.github.io/portfolio/" target="_blank" style="display: inline-block; padding: 10px 20px; color: white; background-color: #4CAF50; border-radius: 5px; text-decoration: none; transition: background-color 0.3s;">
-                Visite Meu Portfólio!!
+                Visite Meu Portfólio!
             </a>
         </p>
     </div>
