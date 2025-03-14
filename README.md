@@ -1,3 +1,4 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <div style="display: flex; align-items: center; flex-direction: column; margin-top: 20px;">
     <div style="margin-right: 20px;">
         <h2 style="color: white;"> 💻 Tecnologias que eu conheço:</h2>
@@ -32,3 +33,4 @@
         </p>
     </div>
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400"> 
