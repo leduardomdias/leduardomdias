@@ -1,36 +1,36 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<div style="display: flex; align-items: center; flex-direction: column; margin-top: 20px;">
-    <div style="margin-right: 20px;">
-        <h2 style="color: white;"> 💻 Tecnologias que eu conheço:</h2>
-        <ul>
-            <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/>  HTML</li>
-            <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/>  CSS</li>
-            <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="20" height="20"/> C</li>
-            <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/> C++</li>
-            <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>  JavaScript</li>
-        </ul>
-        <h2 style="color: white;">📚 Linguagens que estou aprendendo:</h2>
-        <ul>
-            <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="20" height="20"/>  ReactJS</li>
-            <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java</li>
-        </ul>
-        <h2 style="color: white;">🛠️ Ferramentas que sei usar:</h2>
-        <ul>
-    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" width="20" height="20"/>  Visual Studio Code</li>
-    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="20" height="20"/>  Bootstrap</li>
-    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="DevC++" width="20" height="20"/>  DevC++</li>
-    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="20" height="20"/>  IntelliJ</li>
-    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" alt="CLion" width="20" height="20"/>  CLion (JetBrains)</li>
-    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20"/>  Git</li>
-</ul>
-    </div>
-    <div style="background-color: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 10px; text-align: center; margin-top: 20px;">
-        <h2 style="color: white;">🌐 Acesse meu site:</h2>
-        <p>
-            <a href="https://leduardomdias.github.io/portfolio/" target="_blank" style="display: inline-block; padding: 10px 20px; color: white; background-color: #4CAF50; border-radius: 5px; text-decoration: none; transition: background-color 0.3s;">
-                Visite Meu Portfólio!!
-            </a>
-        </p>
-    </div>
+
+## 🚀 Tecnologias que eu conheço:
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
+
+## 📚 Linguagens que estou aprendendo:
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+</div>
+
+## 🛠️ Ferramentas que sei usar:
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/DevC++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DevC++"/>
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/>
+    <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion (JetBrains)"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
+
+## 🌐 Acesse meu site:
+ <p>
+        <a href="https://leduardomdias.github.io/portfolio/" target="_blank" style="display: inline-block; padding: 10px 20px; color: white; background-color: #4CAF50; border-radius: 5px; text-decoration: none; transition: background-color 0.3s;">
+            Visite Meu Portfólio!!
+        </a>
+    </p>
+</div>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400"> 
