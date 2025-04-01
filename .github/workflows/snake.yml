@@ -16,10 +16,15 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: "leduardomdias"
-          github_token: ${{ secrets.GITHUB_TOKEN }} # Garantir que o token de autenticação está presente
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Commit e Push da animação
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: output
-          folder: dist
+            branch: output
+            folder: dist
+
+
