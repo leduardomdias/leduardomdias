@@ -15,7 +15,7 @@ jobs:
       - name: Gerar animação da cobra
         uses: Platane/snk@v3  # Ação para gerar a animação
         with:
-          github_user_name: leduardomdias  # Nome do usuário para pegar as contribuições
+          github_user_name: leduardomdias  # Nome de usuário GitHub (seu repositório)
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
