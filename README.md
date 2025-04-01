@@ -35,6 +35,9 @@
             Visite Meu Portfólio!!
         </a>
     </p>
+
+![Minha Animação](https://raw.githubusercontent.com/leduardomdias/output/dist/github-snake.svg)
+
 </div>
 </div>
 
