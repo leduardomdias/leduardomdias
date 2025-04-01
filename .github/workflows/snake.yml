@@ -24,7 +24,7 @@ jobs:
       - name: Commit e Push da animação
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-              branch: output
-              folder: dist
-              token: ${{ secrets.GITHUB_TOKEN }}
+            branch: output
+            folder: dist
+
 
