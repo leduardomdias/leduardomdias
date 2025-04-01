@@ -17,11 +17,9 @@ jobs:
         with:
           github_user_name: "leduardomdias"
           github_token: ${{ secrets.GITHUB_TOKEN }} # Garantir que o token de autenticação está presente
-          # Aqui você define o GIF gerado
-          gif_url: "dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
 
       - name: Commit e Push da animação
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: output # Mudando para a branch 'output'
+          branch: output
           folder: dist
