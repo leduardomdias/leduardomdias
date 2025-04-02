@@ -36,7 +36,7 @@
         </a>
     </p>
 
-![Minha Animação](https://raw.githubusercontent.com/leduardomdias/output/output/github-snake-dark.svg)
+![Minha Animação](github-snake-dark.svg)
 
 </div>
 </div>
