@@ -29,3 +29,5 @@ jobs:
         with:
           branch: output  # Definindo a branch para o deploy
           folder: dist    # Pasta que contém os arquivos gerados pela animação
+
+
