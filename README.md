@@ -36,7 +36,7 @@
         </a>
     </p>
 
-![Minha Animação](https://raw.githubusercontent.com/leduardomdias/leduardomdias/output/github-snake-dark.svg)
+![Minha Animação](https://raw.githubusercontent.com/leduardomdias/leduardomdias/output/pacman-contribution-graph-dark.svg)
 
 </div>
 </div>
