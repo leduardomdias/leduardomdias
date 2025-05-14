@@ -38,6 +38,7 @@
 
 ![Minha Animação](https://raw.githubusercontent.com/leduardomdias/leduardomdias/output/github-snake-dark.svg)
 
+
 </div>
 </div>
 
