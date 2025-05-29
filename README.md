@@ -5,6 +5,8 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
 </div>
 
 ## 📚 Linguagens/Tecnologias que estou aprendendo:
@@ -15,9 +17,6 @@
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
 </div>
 
-
-
-
 ## 🛠️ Ferramentas que sei usar:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
@@ -27,18 +26,14 @@
     <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion (JetBrains)"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=heidisql&logoColor=white" alt="HeidiSQL"/>
 </div>
 
 ## 🌐 Acesse meu site:
- <p>
-        <a href="https://leduardomdias.github.io/portfolio/" target="_blank" style="display: inline-block; padding: 10px 20px; color: white; background-color: #4CAF50; border-radius: 5px; text-decoration: none; transition: background-color 0.3s;">
-            Visite Meu Portfólio!!
-        </a>
-    </p>
+<p>
+    <a href="https://leduardomdias.github.io/portfolio/" target="_blank" style="display: inline-block; padding: 10px 20px; color: white; background-color: #4CAF50; border-radius: 5px; text-decoration: none; transition: background-color 0.3s;">
+        Visite Meu Portfólio!!
+    </a>
+</p>
 
 ![Minha Animação](https://raw.githubusercontent.com/leduardomdias/leduardomdias/output/github-snake-dark.svg)
-
-
-</div>
-</div>
-
