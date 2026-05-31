@@ -93,7 +93,7 @@ Working with software development and enterprise system integrations.
 
 **B.Sc. in Software Engineering** — PUC Minas
 
----
+--- 
 
 <div align="center">
 
